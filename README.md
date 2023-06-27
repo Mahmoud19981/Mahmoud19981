@@ -12,7 +12,7 @@ Skills:
 * CSS
  
 <img src="https://www.bing.com/th/id/OGC.bbb44562256f1260d35c6b9925bd00cd?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fjpZvG8KmaVtF6%2fsource.gif&ehk=TNtyqXp7D1CicUURZ7I1RYKM%2f7vZbvF3GFOEYgjwtGQ%3d" alt="gif"/>
-
 - 🔭 I’m currently working on this pages: 👇🏻
+- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahmoud-shams-eldin-47aa68278/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100006208448866)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ana_passive/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mahmmoud99811)  
 
