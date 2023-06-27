@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Mahmoud 
 #### my journey to be a full stack developer
 ![I am GitHub Readme Generator's creator](https://scontent.fkwi2-2.fna.fbcdn.net/v/t39.30808-6/347845527_915424359757246_6478362169060240466_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFa0ctsXuKIsVlwjpQ3Y6P9grKZIBCoRKOCspkgEKhEo9RfidptX1-Gcr07exrB_ltTuYgDDK0-wJ44nvUmJFw7&_nc_ohc=YXGyXJK7WoAAX9UoeRi&_nc_ht=scontent.fkwi2-2.fna&oh=00_AfBao7YM0BtzZwPcb2oOYV0wwQT7ES7gYo9yMD2DlC_HWA&oe=649F8758)
 
