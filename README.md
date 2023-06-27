@@ -10,7 +10,10 @@ Skills:
 * JS
 * HTML
 * CSS
- 
+
+ - 🔭 I’m currently working on this pages.
+
+
 <img src="https://www.bing.com/th/id/OGC.bbb44562256f1260d35c6b9925bd00cd?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fjpZvG8KmaVtF6%2fsource.gif&ehk=TNtyqXp7D1CicUURZ7I1RYKM%2f7vZbvF3GFOEYgjwtGQ%3d" alt="gif"/>
 - 🔭 I’m currently working on this pages: 👇🏻
 
